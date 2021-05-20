@@ -2,13 +2,13 @@
 
 A quick solution for Guzzle 7 to get request url from the response.
 
-### Usage
+### Instalation
 Install via composer
 
 ```
 composer install
 ```
-
+### Usage
 ```
 require "vendor/autoload.php";
 
