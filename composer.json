@@ -1,0 +1,22 @@
+{
+    "name": "dezento/effective-middleware",
+    "description": "Guzzle 7 Effective Url Solution",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dezento",
+            "email": "milovanpanic92@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.2",
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "autoload": {
+      "psr-4": {
+        "Dezento\\": "src/"
+      }
+    }
+}
