@@ -1,6 +1,6 @@
 ## Guzzle 7 Effective Url Middleware
 
-A quick solution for Guzzle 7 to get request url from the response.
+A quick solution for Guzzle 7 to get the request URL from the response.
 
 ### Instalation
 Install via composer
