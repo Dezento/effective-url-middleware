@@ -6,8 +6,7 @@ A quick solution for Guzzle 7 to get request url from the response.
 Install via composer
 
 ```
-composer install
-```
+ composer require dezento/effective-url-middleware:dev-main```
 ### Usage
 ```
 require "vendor/autoload.php";
