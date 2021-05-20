@@ -1,5 +1,5 @@
 {
-    "name": "dezento/effective-middleware",
+    "name": "dezento/effective-url-middleware",
     "description": "Guzzle 7 Effective Url Solution",
     "type": "library",
     "license": "MIT",
